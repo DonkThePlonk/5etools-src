@@ -5569,7 +5569,10 @@
 			"components": {
 				"v": true,
 				"s": true,
-				"m": "1 Copper Piece"
+				"m": {
+					"text": "1 Copper Piece",
+					"cost": 1
+				}
 			},
 			"duration": [
 				{
